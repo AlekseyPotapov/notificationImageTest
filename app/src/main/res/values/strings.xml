@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testGlide</string>
+    <string name="permission_external_storage_denied">Нет разрешения</string>
+    <string name="permission_external_storage_denied_settings">Иди в настройки</string>
+    <string name="label_select_picture">Выбери картинку</string>
+    <string name="training_channel_name">Channel_name</string>
+    <string name="training_channel_description">channle_description</string>
+</resources>
